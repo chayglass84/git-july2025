@@ -22,7 +22,7 @@ spec:
   contents:
     openapi: 3.0.4
     info:
-      title: Swagger Petstore - OpenAPI 3.0
+      title: Cam's Mega Petstore - OpenAPI 3.1
       description: |-
         This is a sampleaaaaaaa Pet Store Server based on the OpenAPI 3.0 specification.  You can find out more about
         Swagger at [https://swagger.io](https://swagger.io). In the third iteration of the pet stfewfsore, we've switched to the design first approach!
@@ -798,4 +798,4 @@ spec:
   meta:
     id: spc_9dcd6adc84c94d3088c7cee2dd08201c
     created: 1753290810243
-    modified: 1753291206716
+    modified: 1755033961740
