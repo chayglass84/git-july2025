@@ -1,0 +1,16 @@
+type: environment.insomnia.rest/5.0
+name: SO INTUITIVE
+meta:
+  id: wrk_c9b3e4a3ba0f45869d8afdb7c17a10ba
+  created: 1756417328872
+  modified: 1756417328872
+  description: ""
+environments:
+  name: Base Environment
+  meta:
+    id: env_a9176652668abea68c26347bd8e66620ee71d3e6
+    created: 1756417328875
+    modified: 1756417337518
+    isPrivate: false
+  data:
+    meow: woof
