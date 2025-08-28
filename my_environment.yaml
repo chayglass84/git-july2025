@@ -10,7 +10,8 @@ environments:
   meta:
     id: env_a9176652668abea68c26347bd8e66620ee71d3e6
     created: 1756417328875
-    modified: 1756417337518
+    modified: 1756417378731
     isPrivate: false
   data:
-    meow: woof
+    meow: ribbit
+    apple: banana
