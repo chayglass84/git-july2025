@@ -29,14 +29,16 @@ spec:
         You can now help us improve the API whether it's by making changes to the definition itself or to the code.
         That way, with time, we can improve the API in general, and expose some of the new features in OAS3.
 
+        This is a change Cam has made.
+
         Some useful links:
         - [The Pet Store repository](https://github.com/swagger-api/swagger-petstore)
         - [The source API definition for the Pet Store](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml)
       termsOfService: https://swagger.io/terms/
       contact:
-        email: apiteam@swagger.io
+        email: campretendemail@swagger.io
       license:
-        name: Apache 2.0
+        name: Apache 4.0
         url: https://www.apache.org/licenses/LICENSE-2.0.html
       version: 1.0.27-SNAPSHOT
     externalDocs:
@@ -45,7 +47,7 @@ spec:
     servers:
       - url: https://petstore3.swagger.io/api/v3
     tags:
-      - name: pet
+      - name: notapet
         description: Everything about your Pets
         externalDocs:
           description: Find out more
@@ -798,4 +800,4 @@ spec:
   meta:
     id: spc_9dcd6adc84c94d3088c7cee2dd08201c
     created: 1753290810243
-    modified: 1755034051108
+    modified: 1756414278281
