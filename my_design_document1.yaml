@@ -28,17 +28,17 @@ spec:
         Swagger at [https://swagger.io](https://swagger.io). In the third iteration of the pet stfewfsore, we've switched to the design first approach!
         You can now help us improve the API whether it's by making changes to the definition itself or to the code.
         That way, with time, we can imdfsfsddfdsfsdfprove the API in general, and expose some of the new features in OAS3.
-
+      This is Cam typing something totally different on GH Web.
         Some useful links:
         - [The Pet Store repository](https://github.com/swagger-api/swagger-petstore)
         - [The source API definition for the Pet Store](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml)
       termsOfService: https://swagger.io/terms/
       contact:
-        email: apiteam@swagger.io
+        email: totallylegitemail@trustme.ru
       license:
-        name: Apache 2.0
+        name: Apache 4.7
         url: https://www.apache.org/licenses/LICENSE-2.0.html
-      version: 1.0.27-SNAPSHOT
+      version: 1.0.27-SNAPSHOT-ORELSE
     externalDocs:
       description: Find out more about Swagger
       url: https://swagger.io
