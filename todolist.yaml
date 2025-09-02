@@ -12,7 +12,7 @@ cookieJar:
     created: 1756841662090
     modified: 1756841662090
 environments:
-  name: Base Environment
+  name: Cam's Environment
   meta:
     id: env_f7f692dbd068340aa0d15dbf22e772f16ed684c2
     created: 1756841662089
@@ -22,11 +22,11 @@ spec:
   contents:
     openapi: 3.0.0
     info:
-      title: Simple TODO API
+      title: Simple To Do List API
       version: 1.0.0
-      description: A minimal API to manage a list of TODO items created by Cam, Sept 2
+      description: A minimal API to manage a list of TODO items perhaps created by Cam
       contact:
-        name: API Support
+        name: Contact Person
         email: support@example.com
     servers:
       - url: https://api.example.com
