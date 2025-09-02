@@ -1,4 +1,4 @@
- type: spec.insomnia.rest/5.0
+type: spec.insomnia.rest/5.0
 name: Cams doc
 meta:
   id: wrk_d96df6426d314217b721ad9fac02bda3
@@ -12,7 +12,7 @@ cookieJar:
     created: 1753290808371
     modified: 1753290808371
 environments:
-  name: Base Environment (With a Second Change)
+  name: Base Environment (With a Change)
   meta:
     id: env_87677dacc05dd57ad0b35f211185aa3ce7235a3f
     created: 1753290808374
@@ -22,30 +22,32 @@ spec:
   contents:
     openapi: 3.0.4
     info:
-      title: Swagger Petstore - OpenAPI 3.0
+      title: Cam's Mega Petstore - OpenAPI 3.1
       description: |-
-        This is a sample Pet Store Server based on the OpenAPI 3.0 specification.  You can find out more about
+        This is a sampleaaaaaaa Pet Store Server based on the OpenAPI 3.0 specification.  You can find out more about
         Swagger at [https://swagger.io](https://swagger.io). In the third iteration of the pet stfewfsore, we've switched to the design first approach!
         You can now help us improve the API whether it's by making changes to the definition itself or to the code.
-        That way, with time, we can imdfsfsddfdsfsdfprove the API in general, and expose some of the new features in OAS3.
-      This is Cam typing something totally different on GH Web.
+        That way, with time, we can improve the API in general, and expose some of the new features in OAS3.
+
+        This is a change Cam has made.
+
         Some useful links:
         - [The Pet Store repository](https://github.com/swagger-api/swagger-petstore)
         - [The source API definition for the Pet Store](https://github.com/swagger-api/swagger-petstore/blob/master/src/main/resources/openapi.yaml)
       termsOfService: https://swagger.io/terms/
       contact:
-        email: totallylegitemail@trustme.ru
+        email: campretendemail@swagger.io
       license:
-        name: Apache 4.7
+        name: Apache 4.0
         url: https://www.apache.org/licenses/LICENSE-2.0.html
-      version: 1.0.27-SNAPSHOT-ORELSE
+      version: 1.0.27-SNAPSHOT
     externalDocs:
       description: Find out more about Swagger
       url: https://swagger.io
     servers:
       - url: https://petstore3.swagger.io/api/v3
     tags:
-      - name: pet
+      - name: notapet
         description: Everything about your Pets
         externalDocs:
           description: Find out more
@@ -798,4 +800,4 @@ spec:
   meta:
     id: spc_9dcd6adc84c94d3088c7cee2dd08201c
     created: 1753290810243
-    modified: 1753291206716
+    modified: 1756414278281
